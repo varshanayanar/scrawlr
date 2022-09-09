@@ -1,11 +1,4 @@
-# Scrawlr Hiring | Full Stack Technical Assessment
 
-Hello and welcome to Scrawlr's technical assessment for Full Stack candidates.
-Please see the instructions below and contined within the source code for the requirements for submission.
-
-Expected completion time: 2-3 hours
-
-## Requirements for submission
 
 1. The focus of this project is the connection between the frontend and backend
     - this means that we will not be grading the styling of frontend UI or the database design
